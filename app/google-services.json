@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "89355076095",
+    "firebase_url": "https://indialearnsapplication.firebaseio.com",
+    "project_id": "indialearnsapplication",
+    "storage_bucket": "indialearnsapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89355076095:android:577f8b20f506999b",
+        "android_client_info": {
+          "package_name": "com.example.tusharjape.indialearnsapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89355076095-6m3onaamgburn7e0tb5ruveu7khhgdgm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tusharjape.indialearnsapplication",
+            "certificate_hash": "142693dcd217eca75b666b5a326cf67066e1406a"
+          }
+        },
+        {
+          "client_id": "89355076095-dmuretrusf8ipmpdjj85fpdsrcbgqlqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBma311uvdK-liihVIcjk8T5L6lIaiGNiQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89355076095-dmuretrusf8ipmpdjj85fpdsrcbgqlqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
